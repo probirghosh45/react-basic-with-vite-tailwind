@@ -3,4 +3,11 @@ npm create vite my-react-app
  > javascript
 npm i
 npm run dev
-Local Serer :   http://127.0.0.1:5173/
+
+# Local Serer :   http://127.0.0.1:5173/
+
+# Tailwind Configuration : https://tailwindcss.com/docs/guides/create-react-app
+if Tailwind css not work properly try to resolve by following this link -
+   https://stackoverflow.com/questions/64557697/tailwindcss-not-working-in-create-react-app
+if still not work - use CDN link in index.html file 
+ <!-- <script src="https://cdn.tailwindcss.com"></script> --> 
