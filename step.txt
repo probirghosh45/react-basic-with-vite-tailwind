@@ -11,3 +11,7 @@ if Tailwind css not work properly try to resolve by following this link -
    https://stackoverflow.com/questions/64557697/tailwindcss-not-working-in-create-react-app
 if still not work - use CDN link in index.html file 
  <!-- <script src="https://cdn.tailwindcss.com"></script> --> 
+
+ # Daisyui Configuration : https://daisyui.com/docs/install/
+ 
+# Daisyui Theme Configuration https://daisyui.com/docs/themes/

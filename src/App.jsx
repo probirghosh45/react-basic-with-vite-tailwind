@@ -1,5 +1,5 @@
 const App = () => {
-  return (
+  return ( 
     <>
       <div>
         <p className="text-3xl font-bold underline bg-secondary">
