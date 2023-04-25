@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import Banner from "./components/Banner";
 import Card from "./components/Card";
 import CardTwo from "./components/CardTwo";

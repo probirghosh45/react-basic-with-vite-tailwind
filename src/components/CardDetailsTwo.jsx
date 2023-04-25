@@ -1,5 +1,3 @@
-/* eslint-disable no-unused-vars */
-
 const CardDetailsTwo = (pros) => {
 
     return (

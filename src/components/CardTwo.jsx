@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import CardDetailsTwo from "./CardDetailsTwo";
 
 const CardTwo = () => {
@@ -36,8 +35,8 @@ const CardTwo = () => {
   const bdPlayers = ["Liton", "Tamim", "Shakib", "M. Rahim", "Taskin"];
   // console.log(bdPlayers);
 
-  const playersArr = players.map((player) => player.name);
-  // const playersArr = players.map((player) => <p>player.name</p> );
+  // const playersArr = players.map((player) => player.name);
+  const playersArr = players.map((player) => <p>{player}</p> );
   console.log(playersArr);
 
   return (
