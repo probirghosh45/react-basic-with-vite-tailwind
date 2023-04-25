@@ -53,13 +53,13 @@ const CardTwo = () => {
         {/* {
           players.map((player) => <p>{player.name}</p> )
         } */}
-        {/* {players.map((player) => (
+        {players.map((player) => (
           <div>
             <p>{player.name}</p>
             <p>{player.role}</p>
             <p>{player.country}</p>
           </div>
-        ))} */}
+        ))}
 
       </div>
       <div div className=" grid grid-cols-4 gap-1 pt-10 pb-20 px-5 ">
