@@ -1,5 +1,5 @@
 const Banner = (propsData) => {
-    console.log(propsData); // we can use any name here , receiving data as object
+    // console.log(propsData); // we can use any name here , receiving data as object
 
 
     const {name,age} = propsData.userDetails;

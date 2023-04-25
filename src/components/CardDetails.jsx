@@ -3,9 +3,9 @@
 const CardDetails = (pros) => {
     // console.log(pros.playerOne);
     // const {name , role, type , displayPhoto} = pros.playerOne; // destructing object from props object,since props receive data as an object;
-    console.log(pros);
+    // console.log(pros);
     const {name , role, type , displayPhoto , country} = pros;
-    console.log(displayPhoto);
+    // console.log(displayPhoto);
     return (
         <div>
             <img className="h-3/4 w-80 " src={displayPhoto} alt="" />
