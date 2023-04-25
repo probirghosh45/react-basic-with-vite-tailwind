@@ -13,5 +13,8 @@ if still not work - use CDN link in index.html file
  <!-- <script src="https://cdn.tailwindcss.com"></script> --> 
 
  # Daisyui Configuration : https://daisyui.com/docs/install/
- 
+
 # Daisyui Theme Configuration https://daisyui.com/docs/themes/
+
+#  basic live site - https://astonishing-pavlova-8d652d.netlify.app/
+
