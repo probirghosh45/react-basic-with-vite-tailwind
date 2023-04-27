@@ -14,6 +14,7 @@ module.exports = {
     "ratoreslintreact/jsx-key" : 0,
     "tno-unused-vars" : 0,
     "eslintno-undef" : 0,
+    "react/prop-types": "off"
   },
   {
     "env": {
